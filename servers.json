@@ -2,14 +2,14 @@
     {
       "color": "FF0000",
       "dopname": "(X3 АКЦИИ)",
-      "maxonline": 500,
-      "name": "MOSCOW",
-      "online": 358
+      "maxonline": 100,
+      "name": "Red",
+      "online": 48
     },
     {
       "color": "FFFFFF",
       "dopname": "(НЕТ ДОСТУПА)",
-      "maxonline": 500,
+      "maxonline": 10,
       "name": "TEST",
       "online": 3
     }
